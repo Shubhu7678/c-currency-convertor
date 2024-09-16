@@ -1,4 +1,4 @@
-# c-currency-convertor
+# s-currency-convertor
 A npm package to convert currency
 
 ```
